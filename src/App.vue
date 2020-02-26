@@ -23,17 +23,17 @@ export default {
         {
           id: 1,
           status: true,
-          item: 'study vue',
+          item: 'go for shoppping',
         },
         {
           id: 2,
           status: false,
-          item: 'study react',
+          item: 'read something',
         },
         {
           id: 3,
           status: true,
-          item: 'study javascript',
+          item: 'drink some water',
         },
       ],
     }
